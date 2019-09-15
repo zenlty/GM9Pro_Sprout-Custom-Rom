@@ -4,21 +4,21 @@
 *Tarafımca cihaza özgü özelleştirmeler ve hata düzeltmeleri yapılmıştır.*
 
 ## Çalışan Özellikler
-- Wi-Fi | Hotspot
-- Bluetooth
--  4G | LTE
+-  Wi-Fi - Hotspot
+-  Bluetooth
+-  4G - LTE
 -  Always on Display (AOD)
-- Ses
+-  Ses
 -  Arama Servisleri
--  MTP | PTP | Tethering
+-  MTP - PTP - Tethering
 -  Parmak İzi
--  Çift Dokunuşla Açma | Kapatma
+-  Çift Dokunuşla Açma - Kapatma
 -  HavocOS AOD Özelleştirmeleri
 -  Bildirim Işığı (LED)
-- Parlaklık Çubuğu
+-  Parlaklık Çubuğu
 -  Sensörler
-- ADB Servisleri
-- Video Tuşu Medya Tuşu yapıldı.
+-  ADB Servisleri
+-  Video Tuşu Medya Tuşu yapıldı.
 
 ## Bilinen Hatalar
 - VoLTE - VoWiFi  ( [VoEnabler](https://github.com/edgd1er/voenabler) + [ims.apk](https://github.com/EnesSastim/Downloads/blob/master/ims.apk) ile çalışıyor ) 
