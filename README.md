@@ -1,4 +1,4 @@
-# General Mobile GM9PRO HavocOS (GSI)
+# General Mobile GM9PRO Pixel (GSI)
 
 *Uyarı*: *Bu rom **Generic System Image (GSI)** 'dır.*
 *Tarafımca cihaza özgü özelleştirmeler ve hata düzeltmeleri yapılmıştır.*
@@ -12,43 +12,26 @@
 -  Arama Servisleri
 -  MTP - PTP - Tethering
 -  Parmak İzi
--  Çift Dokunuşla Açma - Kapatma
--  HavocOS AOD Özelleştirmeleri
 -  Bildirim Işığı (LED)
 -  Parlaklık Çubuğu
 -  Sensörler
 -  ADB Servisleri
--  Video Tuşu Medya Tuşu yapıldı.
 
 ## Bilinen Hatalar
-- VoLTE - VoWiFi 
+-  VoLTE - VoWiFi 
 -  FM Radio
 ## Rom Hakkında
 
-- Android Sürümü : **9**
-- Havoc Sürümü : **2.9**
-- Derleme Numarası : **PQ3B.190801.002**
+- Android Sürümü : **10**
 - C2API : **Açık**
-- SELinux Durumu : **Permissive (Serbest)**
 - Vendor : **9 + AOD Destekli**
-- GApss : **Nano Eklendi**
-- Root : **Magisk (APK Gerekebilir)**
+- Root : **Magisk**
 - Google Kamera : **Config ile Verimli Çalışıyor**
 - Dolby : **Eklenmedi, Viper kullanabilirsiniz**
 - PHH App : **Ekli**
-- Source :  [Havoc-OS](https://sourceforge.net/projects/havoc-os/files/arm64-ab/Havoc-OS-v2.9-20190914-phhgsi_arm64_ab-Official.img.xz/download)
+- Source :  [Pixel](https://mirrors.lolinet.com/firmware/gsi/Pixel/Pixel-AB-10-20191008-ErfanGSI.img.7z)
 - Kullanılan Fix Pack : [fixpack_gm9pro_sprout](https://github.com/zenlty/fixpack_gm9pro_sprout)
 
-## Medya Tuşu Hakkında
-
-Keycode cinsinden MEDIA_PLAY_PAUSE olan bu özelliğin işlevi şu şekildedir.
-
-|Tek Basma| Çift Basma  | Basılı Tutma |
-|--|--|--|
-| Müziği Başlat - Durdur | Müziği Değiştir |Google Asistan
-
-
-Bir nevi kulaklığın orta tuşunun gördüğü işlevi görür
 
 ## Otomatik Kurulum
 Fastboot ile kurulum hazırladım.
