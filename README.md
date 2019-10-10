@@ -20,6 +20,7 @@
 ## Bilinen Hatalar
 -  VoLTE - VoWiFi 
 -  FM Radio
+-  Otomatik Parlaklık + C2API [PATCH](https://github.com/zenlty/GM9Pro_Sprout-Custom-Rom/releases/download/10-2019-10-06/Pixel_Ekim_Patch.zip) ile düzeliyor
 ## Rom Hakkında
 
 - Android Sürümü : **10**
